@@ -1,0 +1,3 @@
+/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles/allc.dir
+/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles/edit_cache.dir
+/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles/rebuild_cache.dir
