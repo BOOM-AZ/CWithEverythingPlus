@@ -86,17 +86,116 @@ CMakeFiles/allc.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/allc.dir/src/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/boom/Documents/GitHub/CWithEverythingPlus/src/main.cpp -o CMakeFiles/allc.dir/src/main.cpp.s
 
+CMakeFiles/allc.dir/imgui/imgui.cpp.o: CMakeFiles/allc.dir/flags.make
+CMakeFiles/allc.dir/imgui/imgui.cpp.o: /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui.cpp
+CMakeFiles/allc.dir/imgui/imgui.cpp.o: CMakeFiles/allc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/allc.dir/imgui/imgui.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/allc.dir/imgui/imgui.cpp.o -MF CMakeFiles/allc.dir/imgui/imgui.cpp.o.d -o CMakeFiles/allc.dir/imgui/imgui.cpp.o -c /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui.cpp
+
+CMakeFiles/allc.dir/imgui/imgui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/allc.dir/imgui/imgui.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui.cpp > CMakeFiles/allc.dir/imgui/imgui.cpp.i
+
+CMakeFiles/allc.dir/imgui/imgui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/allc.dir/imgui/imgui.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui.cpp -o CMakeFiles/allc.dir/imgui/imgui.cpp.s
+
+CMakeFiles/allc.dir/imgui/imgui_draw.cpp.o: CMakeFiles/allc.dir/flags.make
+CMakeFiles/allc.dir/imgui/imgui_draw.cpp.o: /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_draw.cpp
+CMakeFiles/allc.dir/imgui/imgui_draw.cpp.o: CMakeFiles/allc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/allc.dir/imgui/imgui_draw.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/allc.dir/imgui/imgui_draw.cpp.o -MF CMakeFiles/allc.dir/imgui/imgui_draw.cpp.o.d -o CMakeFiles/allc.dir/imgui/imgui_draw.cpp.o -c /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_draw.cpp
+
+CMakeFiles/allc.dir/imgui/imgui_draw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/allc.dir/imgui/imgui_draw.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_draw.cpp > CMakeFiles/allc.dir/imgui/imgui_draw.cpp.i
+
+CMakeFiles/allc.dir/imgui/imgui_draw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/allc.dir/imgui/imgui_draw.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_draw.cpp -o CMakeFiles/allc.dir/imgui/imgui_draw.cpp.s
+
+CMakeFiles/allc.dir/imgui/imgui_tables.cpp.o: CMakeFiles/allc.dir/flags.make
+CMakeFiles/allc.dir/imgui/imgui_tables.cpp.o: /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_tables.cpp
+CMakeFiles/allc.dir/imgui/imgui_tables.cpp.o: CMakeFiles/allc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/allc.dir/imgui/imgui_tables.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/allc.dir/imgui/imgui_tables.cpp.o -MF CMakeFiles/allc.dir/imgui/imgui_tables.cpp.o.d -o CMakeFiles/allc.dir/imgui/imgui_tables.cpp.o -c /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_tables.cpp
+
+CMakeFiles/allc.dir/imgui/imgui_tables.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/allc.dir/imgui/imgui_tables.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_tables.cpp > CMakeFiles/allc.dir/imgui/imgui_tables.cpp.i
+
+CMakeFiles/allc.dir/imgui/imgui_tables.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/allc.dir/imgui/imgui_tables.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_tables.cpp -o CMakeFiles/allc.dir/imgui/imgui_tables.cpp.s
+
+CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.o: CMakeFiles/allc.dir/flags.make
+CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.o: /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_widgets.cpp
+CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.o: CMakeFiles/allc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.o -MF CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.o.d -o CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.o -c /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_widgets.cpp
+
+CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_widgets.cpp > CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.i
+
+CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/imgui_widgets.cpp -o CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.s
+
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.o: CMakeFiles/allc.dir/flags.make
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.o: /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/backends/imgui_impl_glfw.cpp
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.o: CMakeFiles/allc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.o -MF CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.o.d -o CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.o -c /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/backends/imgui_impl_glfw.cpp
+
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/backends/imgui_impl_glfw.cpp > CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.i
+
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/backends/imgui_impl_glfw.cpp -o CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.s
+
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.o: CMakeFiles/allc.dir/flags.make
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.o: /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/backends/imgui_impl_opengl3.cpp
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.o: CMakeFiles/allc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.o -MF CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.o.d -o CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.o -c /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/backends/imgui_impl_opengl3.cpp
+
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/backends/imgui_impl_opengl3.cpp > CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.i
+
+CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/boom/Documents/GitHub/CWithEverythingPlus/imgui/backends/imgui_impl_opengl3.cpp -o CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.s
+
 # Object files for target allc
 allc_OBJECTS = \
-"CMakeFiles/allc.dir/src/main.cpp.o"
+"CMakeFiles/allc.dir/src/main.cpp.o" \
+"CMakeFiles/allc.dir/imgui/imgui.cpp.o" \
+"CMakeFiles/allc.dir/imgui/imgui_draw.cpp.o" \
+"CMakeFiles/allc.dir/imgui/imgui_tables.cpp.o" \
+"CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.o" \
+"CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.o" \
+"CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.o"
 
 # External object files for target allc
 allc_EXTERNAL_OBJECTS =
 
 allc: CMakeFiles/allc.dir/src/main.cpp.o
+allc: CMakeFiles/allc.dir/imgui/imgui.cpp.o
+allc: CMakeFiles/allc.dir/imgui/imgui_draw.cpp.o
+allc: CMakeFiles/allc.dir/imgui/imgui_tables.cpp.o
+allc: CMakeFiles/allc.dir/imgui/imgui_widgets.cpp.o
+allc: CMakeFiles/allc.dir/imgui/backends/imgui_impl_glfw.cpp.o
+allc: CMakeFiles/allc.dir/imgui/backends/imgui_impl_opengl3.cpp.o
 allc: CMakeFiles/allc.dir/build.make
+allc: /opt/homebrew/lib/libglfw.3.5.dylib
+allc: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework
+allc: /opt/homebrew/lib/libglm.dylib
 allc: CMakeFiles/allc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable allc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable allc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/allc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -85,12 +85,12 @@ clean: CMakeFiles/allc.dir/clean
 CMakeFiles/allc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/allc.dir/build.make CMakeFiles/allc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/allc.dir/build.make CMakeFiles/allc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=1,2 "Built target allc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target allc"
 .PHONY : CMakeFiles/allc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/allc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/allc.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles 0
 .PHONY : CMakeFiles/allc.dir/rule
@@ -102,7 +102,7 @@ allc: CMakeFiles/allc.dir/rule
 # codegen rule for target.
 CMakeFiles/allc.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/allc.dir/build.make CMakeFiles/allc.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=1,2 "Finished codegen for target allc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/boom/Documents/GitHub/CWithEverythingPlus/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Finished codegen for target allc"
 .PHONY : CMakeFiles/allc.dir/codegen
 
 # clean rule for target.
